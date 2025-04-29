@@ -1,0 +1,3 @@
+[submodule "lalalala"]
+	path = lalalala
+	url = https://github.com/JhonnathaMonteiro/nvim
